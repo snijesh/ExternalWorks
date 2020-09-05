@@ -7,7 +7,7 @@
 
 ### DATASET
 
- <https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE24185>
+ [GSE24185](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE24185)
 
  [Gene transcription signature of obesity in breast cancer](https://www.ncbi.nlm.nih.gov/pubmed/21750966)
 
@@ -15,8 +15,8 @@
 
  Considered only ER +ve breast cancer in pre and post-menopausal women : 50 samples
 
- BMI > 25 :: Normal<br>
- BMI <=25 Obese
+ BMI > 25 :: Normal <br>
+ BMI <=25 :: Obese
 
 ### Distribution of Considered samples
 
@@ -33,7 +33,7 @@
 
  **Post**
 
- Normal BMI vs OBESE BMI **:** 775 DEGs with FC ≥ ±1.5
+ **Normal BMI vs OBESE BMI :** 775 DEGs with FC ≥ ±1.5
 
  **Pre**
 
