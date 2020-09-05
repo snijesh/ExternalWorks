@@ -1,9 +1,11 @@
-# ExternalWorks
- <!-- /* Font Definitions */ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4;} /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; font-size:11.0pt; font-family:"Calibri",sans-serif;} a:link, span.MsoHyperlink {color:blue; text-decoration:underline;} .MsoChpDefault {font-family:"Calibri",sans-serif;} .MsoPapDefault {margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in;} div.WordSection1 {page:WordSection1;} -->     **OBJECTIVE**
+
+ <!-- /* Font Definitions */ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4;} /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; font-size:11.0pt; font-family:"Calibri",sans-serif;} a:link, span.MsoHyperlink {color:blue; text-decoration:underline;} .MsoChpDefault {font-family:"Calibri",sans-serif;} .MsoPapDefault {margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in;} div.WordSection1 {page:WordSection1;} -->     
+ 
+##OBJECTIVE
 
  Discriminating key regulators of pre and post menopausal ER +ve breast cancer in relation to obesity
 
- **DATASET**
+### DATASET
 
  <https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE24185>
 
@@ -15,10 +17,9 @@
 
  BMI > 25:: Normal BMI <=25 Obese
 
- **Distribution of Considered samples**
+### Distribution of Considered samples
 
- ![](method_snapshot_files/image001.png)
-
+ <img src="distribution.png">
 
 
  Median Age Overall - 49
@@ -27,7 +28,7 @@
 
  Median Age Pre - 42
 
-  **COMPARISON**
+ ### COMPARISON
 
  **Post**
 
@@ -37,7 +38,7 @@
 
  **Normal BMI vs OBESE BMI :** 486 DEGs with FC ≥ ±1.5
 
-  ![](method_snapshot_files/image002.png)
+  <img src="common.png">
 
   Post DEGs : 775 :: 626 Unique Genes
 
